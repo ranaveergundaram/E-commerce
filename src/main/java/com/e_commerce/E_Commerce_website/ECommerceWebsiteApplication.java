@@ -10,9 +10,14 @@ public class ECommerceWebsiteApplication {
 		SpringApplication.run(ECommerceWebsiteApplication.class, args);
 		System.out.println("Spring Boot Application is successfully running....");
 		System.out.println("Ecommerce website is running....");
+		System.out.println("one");
 
 		System.out.println("Changes made from chethan kumar");
 		System.out.println("Ecommerce website is running Successfully...");
+
+		System.out.println("Dum Dum");
+
+		System.out.println("Finally the parallel working procedure is working..");
 
 	}
 
