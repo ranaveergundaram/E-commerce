@@ -10,7 +10,7 @@ public class ECommerceWebsiteApplication {
 		SpringApplication.run(ECommerceWebsiteApplication.class, args);
 		System.out.println("Spring Boot Application is successfully running....");
 		System.out.println("Ecommerce website is running....");
-		System.out.println("Ecommerce website is running Successfully man....");
+		System.out.println("Ecommerce website is running Successfully...");
 
 	}
 
